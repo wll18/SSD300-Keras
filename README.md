@@ -1,2 +1,2 @@
 # SSD300-Keras-Tensorflow
-Implémentation du SSD (Single Shot Detection) en python à l'aide de la bibliothèque Tensorflow et de sa surcouche Keras.  L'architecture est décrite dans le papier suivant : https://arxiv.org/pdf/1512.02325.pdf. J'ai utilisé la class PriorBox de  que l'on peut trouver sur ce repositery :  https://github.com/rykov8/ssd_keras/blob/master/ssd_layers.py. Le code n'est pas encore commenté.
+Implementation of SSD (Single Shot Detection) in python using the Tensorflow and Keras libraries. The architecture is described in the following paper: https://arxiv.org/pdf/1512.02325.pdf. I used the PriorBox class that can be found on this repositery: https://github.com/rykov8/ssd_keras/blob/master/ssd_layers. py. The code is not yet commented on.
