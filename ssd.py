@@ -16,7 +16,7 @@ class SSD(object):
 		self.voc_classes_genre = {'Avion' : 'un', 'Vélo' : 'un', 'Oiseau' : 'un', 'Bateau' : 'un', 'Bouteille' : 'une','Bus' : 'un', 'Voiture' : 'une', 'Chat' : 'un', 'Chaise' : 'une', 'Vache' : 'une', 'Table' : 'une',
                'Chien' : 'un', 'Cheval' : 'un','Moto' : 'une', 'Personne' : 'une', 'Plante' : 'une',
                'Mouton' : 'un', 'Canapé' : 'un', 'Train' : 'un', 'Télévision' : 'une'}
-        self.genre = ['une', 'un']
+        	self.genre = ['une', 'un']
 		self.NUM_CLASSES = len(voc_classes) + 1
 		self.input_shape=(300, 300, 3)
 
